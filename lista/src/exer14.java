@@ -6,9 +6,9 @@ public class exer14 {
 		Scanner in = new Scanner(System.in);
 
 		int i, num=3;
-		int a[] = new int[3];
-		int b[] = new int[3];
-		int c[] = new int[3];
+		int a[] = new int[10];
+		int b[] = new int[10];
+		int c[] = new int[10];
 		
 		for(i=0; i<num; i++){
 			System.out.println("Insira os valores de A");
