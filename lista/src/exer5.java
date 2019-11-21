@@ -16,9 +16,9 @@ public class exer5 {
 				for (n=1; n<=a[i]; n++) {
 					if ((a[i] % n) == 0) {
 						if (n == a[i]) {
-							System.out.println(a[i]+" é divisivel por: "+n);
+							System.out.println(a[i]+" Ã© divisivel por: "+n);
 		    	  }else {
-		    		  System.out.println(a[i]+" é divisivel por: "+n);
+		    		  System.out.println(a[i]+"NÃ£o Ã© divisivel por: "+n);
 		    	  }
 			}     
 		}
